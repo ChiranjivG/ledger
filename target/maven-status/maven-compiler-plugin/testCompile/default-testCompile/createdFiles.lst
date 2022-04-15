@@ -1,0 +1,8 @@
+in/ledger/repository/LoanRepositoryTest.class
+in/ledger/commands/PaymentCommandTest.class
+in/ledger/commands/BalanceCommandTest.class
+in/ledger/service/LoanServiceTest.class
+in/ledger/controller/LoanService.class
+in/ledger/commands/LoanCommandTest.class
+in/ledger/controller/ClientFactoryTest.class
+in/ledger/controller/ClientTests.class
