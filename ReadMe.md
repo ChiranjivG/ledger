@@ -41,7 +41,7 @@ mvn test
 You can run the jar file created by the `mvn package` command like so -
 
 ```sh
-java -jar target/application.jar
+java -jar target/geektrust.jar
 ```
 
 The above command launches an interactive shell where you can type various commands and receive the output on the console.
@@ -50,7 +50,7 @@ The application can also take input commands from a file. You can pass multiple
 commands separated by a newline in the file like so -
 
 ```sh
-java -jar target/application.jar file_input.txt
+java -jar target/geektrust.jar file_input.txt
 ```
 
 # Problem Statement
