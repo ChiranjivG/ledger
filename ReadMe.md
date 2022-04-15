@@ -44,8 +44,7 @@ You can run the jar file created by the `mvn package` command like so -
 java -jar target/application.jar
 ```
 
-The above command launches an interactive shell where you can type various
-parking lot commands and receive the output on the console.
+The above command launches an interactive shell where you can type various commands and receive the output on the console.
 
 The application can also take input commands from a file. You can pass multiple
 commands separated by a newline in the file like so -
